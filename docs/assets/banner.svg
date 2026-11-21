@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+  <title id="title">Captura</title>
+  <desc id="desc">Windows screenshot capture, annotation, text extraction and color sampling.</desc>
+  <defs><radialGradient id="glow" cx="0" cy=".5" r=".8"><stop stop-color="#833DC5" stop-opacity=".28"/><stop offset="1" stop-color="#833DC5" stop-opacity="0"/></radialGradient></defs>
+  <rect x=".5" y=".5" width="1199" height="319" rx="18" fill="#111216" stroke="#262830"/>
+  <rect x="1" y="1" width="1198" height="318" rx="18" fill="url(#glow)"/>
+  <rect x="4" y="40" width="8" height="240" rx="4" fill="#833DC5"/>
+  <path d="M920 319 1090 1 M970 319 1140 1 M1020 319 1190 1" stroke="#833DC5" stroke-opacity=".22" stroke-width="1.5"/>
+  <g font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif">
+    <text x="56" y="113" font-size="52" font-weight="800" fill="#833DC5">Captura</text>
+    <text x="56" y="162" font-size="22" fill="#D4D4D8">Capture and annotate your Windows desktop.</text>
+    <g transform="translate(56 222)"><rect width="176" height="44" rx="10" fill="#181A20" stroke="#2C2F3A"/><circle cx="18" cy="22" r="5" fill="#833DC5"/><text x="33" y="28" font-size="16" fill="#E4E4E7">Window capture</text></g>
+<g transform="translate(244 222)"><rect width="194" height="44" rx="10" fill="#181A20" stroke="#2C2F3A"/><circle cx="18" cy="22" r="5" fill="#833DC5"/><text x="33" y="28" font-size="16" fill="#E4E4E7">Image annotation</text></g>
+<g transform="translate(450 222)"><rect width="149" height="44" rx="10" fill="#181A20" stroke="#2C2F3A"/><circle cx="18" cy="22" r="5" fill="#833DC5"/><text x="33" y="28" font-size="16" fill="#E4E4E7">English OCR</text></g>
+<g transform="translate(611 222)"><rect width="158" height="44" rx="10" fill="#181A20" stroke="#2C2F3A"/><circle cx="18" cy="22" r="5" fill="#833DC5"/><text x="33" y="28" font-size="16" fill="#E4E4E7">Color picker</text></g>
+  </g>
+</svg>
