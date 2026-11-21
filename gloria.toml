@@ -1,0 +1,8 @@
+id = "Captura"
+name = "Captura"
+version = "0.1.0"
+main_exe = "Captura.exe"
+icon = "Captura.ico"
+accent = "#833DC5"
+description = "Capture and annotate your Windows desktop."
+data_folders = ['%APPDATA%\com.gloria.captura']
