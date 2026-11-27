@@ -21,8 +21,8 @@ fn main() {
         .set_manifest_file("native/app.manifest")
         .append_rc_content(include_str!("native/dialogs.rc"))
         .set("ProductName", "Captura")
-        .set("FileDescription", "Captura screen capture")
-        .set("CompanyName", "projectGloria")
+        .set("FileDescription", "Captura")
+        .set("CompanyName", "Project Gloria")
         .compile()
         .expect("embed Windows resources");
 }
